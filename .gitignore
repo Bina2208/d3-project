@@ -1,2 +1,6 @@
 # dependencies
 /node_modules
+
+package-lock.json
+styles.css.map
+styles.css
